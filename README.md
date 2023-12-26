@@ -1,5 +1,9 @@
 # Umob assignment
 
+A screen record of some of functionalities and screens
+
+![](https://github.com/abolfazlyounesi/umob-assignment/blob/main/giphy.mp4)
+
 ## How to Run
 
 ```bash
@@ -27,7 +31,7 @@ I have used strapi for the backend development, so it needs some more steps to m
 4- go to setting from left side menu<br/>
 5- select Roles from USERS & PERMISSIONS PLUGIN
 section<br/>
-6- click on Authenticated<br/>
+6- click on public<br/>
 7- expand the item for game<br/>
 8- click on the checkboxes below it<br/>
 9- click on save
